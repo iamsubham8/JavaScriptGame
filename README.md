@@ -27,3 +27,8 @@ Open the index.html file in your web browser.
 # Output : 
 ![game output](https://github.com/iamsubham8/JavaScriptGame/assets/168450064/1a7226f8-11b9-4e67-a59c-98737653747b)
 
+# Output in Video form:
+https://github.com/iamsubham8/JavaScriptGame/assets/168450064/b9f2c101-bbe6-43c4-a84f-6175ec8c9042
+
+
+
